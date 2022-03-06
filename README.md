@@ -19,9 +19,8 @@ Solution-driven Front-End Engineer valued for merging the art of design with the
 
 ---
 ##### ✒️ Contact me
-[<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="20px" height="20px" />](https://www.linkedin.com/in/abdulhammed/)    
-[<img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" width="20px" height="20px" />](https://twitter.com/theabdulhammed) 
-[<img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="20px" height="20px" />](https://twitter.com/theabdulhammed)
+[<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="20px" height="20px" />](https://www.linkedin.com/in/abdulhammed/)  [<img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" width="20px" height="20px" />](https://twitter.com/theabdulhammed) 
+[<img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="20px" height="20px" />](https://app.slack.com/client/T7Y8UL2L9/D8D849HRD/user_profile/U8C60FAMQ)
 
 <!--
 **abdulhammed24/abdulhammed24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
