@@ -1,5 +1,11 @@
 ### Howdy 🦍, I am Abdulhammed!
 
+---
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitLogo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="gitLogo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="gitLogo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="gitLogo" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="gitLogo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="gitLogo" width="40" height="40"/>
+
 <!--
 **abdulhammed24/abdulhammed24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
