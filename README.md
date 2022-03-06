@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 🦍, I am Abdulhammed!
 
 <!--
 **abdulhammed24/abdulhammed24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
