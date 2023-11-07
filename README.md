@@ -3,7 +3,7 @@
 ---
 #### Front-End Engineer
 
-Solution-driven Front-End Engineer valued for merging the art of design with the skill of programming to deliver an engaging user experience through efficient / user-friendly website development and provident feature optimization.
+Javascript engineer adept at creating visually appealing, user-friendly applications that boost business growth and enhance UX..
 
 ---
 ##### 🧰 Tools
