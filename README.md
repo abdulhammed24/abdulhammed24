@@ -1,8 +1,8 @@
-# Hi, I'm Abdulhammed 👋
+# Abdulhammed 🚀
 
-A passionate **Full Stack Developer** with expertise in modern web technologies.
+Full Stack Developer | Building Scalable & User-Friendly Applications
 
-## Skills & Expertise
+## Skills
 
 ### Frontend
 - React, Next.js
