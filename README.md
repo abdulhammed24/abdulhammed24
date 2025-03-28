@@ -28,6 +28,7 @@ Let's collaborate and bring your ideas to life!
 ### Data Management & API:
 ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![ReduxToolkit](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 
 ### Deployment & DevOps:
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
